@@ -1,12 +1,12 @@
-# Recuperación de la Información - Ejercicio#01
+# Recuperación de la Información - Repositorio de Ejercicios
 
-Este repositorio corresponde a un deber de la materia **Recuperación de la Información**.
+Este repositorio contiene los ejercicios y proyectos correspondientes a la materia **Recuperación de la Información**. Aquí se incluyen diversas prácticas y aplicaciones de técnicas fundamentales que revisamos en esta materia.
 
 ## Estructura del Repositorio
 
-- **/data**: Contiene un archivo `.json` con los documentos del corpus.
-- **/notebooks**: Contiene el cuaderno de trabajo donde se realizó la tarea.
+- **/data**: Carpeta que almacena archivos de datos en varios formatos, como `.json`, `.txt`, `.xml`, entre otros, los cuales constituyen el corpus de documentos a procesar.
+- **/notebooks**: Carpeta con los cuadernos de trabajo, en los que se encuentran los ejercicios resueltos. Cada ejercicio está documentado en un cuaderno numerado, mostrando los pasos y resultados obtenidos.
 
 ## Descripción
 
-En este proyecto, se han analizado y procesado los documentos presentes en el archivo `.json` utilizando herramientas y técnicas aprendidas para la recuperación de la información, basado en un modelo de matriz término-documento. El cuaderno de trabajo incluye todos los pasos realizados y los resultados obtenidos.
+En este repositorio se exploran y aplican técnicas para la recuperación de la información, empleando principalmente modelos basados en matrices término-documento. Los cuadernos de trabajo incluyen el análisis y procesamiento de documentos mediante herramientas aprendidas a lo largo del curso, permitiendo una comprensión práctica de los métodos utilizados.
